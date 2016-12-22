@@ -1,0 +1,13 @@
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\bin\Debug\PrologConect.exe
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\bin\Debug\PrologConect.pdb
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\obj\Debug\PrologConect.csprojResolveAssemblyReference.cache
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\obj\Debug\PrologConect.Form1.resources
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\obj\Debug\PrologConect.PrintRibbonControllerResources.resources
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\obj\Debug\PrologConect.Properties.Resources.resources
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\obj\Debug\PrologConect.XRDesignRibbonControllerResources.resources
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\obj\Debug\PrologConect.csproj.GenerateResource.Cache
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\obj\Debug\PrologConect.exe.licenses
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\obj\Debug\PrologConect.exe
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\obj\Debug\PrologConect.pdb
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\bin\Debug\SwiPlCs.dll
+D:\HOCTAP\HeChuyenGia\PrologConect\PrologConect\bin\Debug\SwiPlCs.xml
